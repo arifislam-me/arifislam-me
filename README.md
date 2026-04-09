@@ -28,10 +28,10 @@ I’m passionate about problem-solving and continuous learning, enjoying real-wo
 <table align="center">
   <tr>
     <td>
-      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=md-arif-islam&show_icons=true&locale=en&layout=compact" alt="md-arif-islam" />
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arifislam-me&show_icons=true&locale=en&layout=compact" alt="arifislam-me" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-arif-islam&show_icons=true&locale=en" alt="md-arif-islam" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arifislam-me&show_icons=true&locale=en" alt="arifislam-me" />
     </td>
   </tr>
 </table>
