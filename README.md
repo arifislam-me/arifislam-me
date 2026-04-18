@@ -1,23 +1,24 @@
-# MD ARIF ISLAM
+# ARIF ISLAM
 
-### < Software Developer />
+### < Software Engineer />
 
-Hi, I’m Md. Arif Islam, A Software Developer with over 4 years of experience, I specialize in back-end solutions using PHP and Laravel, with expertise in WordPress for theme, plugin, and add-on development. My skills extend to front-end technologies with Vue.js and React.js. I also skilled in integrating AI features into Laravel and WordPress, optimizing website performance, maintaining servers, and building efficient APIs.
+I’m a Software Engineer with 3+ years of experience in software development. I enjoy discussing engineering ideas, problem-solving approaches, and the way technology shapes real-world systems. I like thinking beyond code as well, especially about how software decisions influence products, teams, and future growth.
 
-I’m passionate about problem-solving and continuous learning, enjoying real-world challenges and staying updated with the latest tech. I enjoy and love collaborative environments, working closely with other developers to create meaningful, impactful solutions.
+My long-term goal is to grow into a CTO role, and I’m actively building myself in that direction. I can also work on AI integrations and build AI chatbot solutions, and I’m currently especially interested in learning and working more deeply with AI, machine learning, and robotics.
 
 ## SKILLS
 
 ```js
 {
-  programming_languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'SQL'],
-  front_end_technologies: ['Vue.js', 'React.js', 'Tailwind CSS', "SCSS"],
-  back_end_technologies: ['PHP', 'Laravel', 'Express.js'],
-  wordpress: ['Themes & Plugins Development', 'Elementor & Beaver Widgets Development'],
-  web_scraping_and_automation: ['Selenium(Python)'],
-  server_technologies: ['Linux','Nginx', 'Apache',],
-  database_technologies: ['MySQL','MongoDB', 'PostgreSQL', 'Redis'],
-  others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'VPS', 'Competitive Programming']
+  programming_languages: ['PHP','GO', 'JavaScript', 'Python', 'TypeScript', , 'C/C++', '...'],
+  back_end_frameworks: ['Laravel', 'Express.js', 'FastAPI', 'Flask'],
+  front_end_frameworks: ['Vue.js', 'React.js', 'React Native', 'Expo'],
+  cms_wordpress: ['WordPress Themes & Plugins Development', 'Elementor & Beaver Builder Widget Development'],
+  ai_integration: ['AI Integration & AI Chatbots'],
+  automation_tools: ['Selenium'],
+  database_technologies: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis'],
+  ci_cd: ['GitHub Actions'],
+  others: ['Git & GitHub', 'Docker', 'Firebase', 'REST API', 'SSH', 'VPS', 'Competitive Programming', '...']
 }
 ```
 
