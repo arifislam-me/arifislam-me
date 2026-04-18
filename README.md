@@ -10,7 +10,7 @@ My long-term goal is to grow into a CTO role, and I’m actively building myself
 
 ```js
 {
-  programming_languages: ['PHP','GO', 'JavaScript', 'Python', 'TypeScript', , 'C/C++', '...'],
+  programming_languages: ['PHP', 'Go', 'JavaScript', 'Python', 'TypeScript', 'C/C++', 'SQL'],
   back_end_frameworks: ['Laravel', 'Express.js', 'FastAPI', 'Flask'],
   front_end_frameworks: ['Vue.js', 'React.js', 'React Native', 'Expo'],
   cms_wordpress: ['WordPress Themes & Plugins Development', 'Elementor & Beaver Builder Widget Development'],
@@ -22,7 +22,7 @@ My long-term goal is to grow into a CTO role, and I’m actively building myself
 }
 ```
 
-### [More about me ►](https://arifislam.me/about)
+### [More about me ►](https://arifislam.me)
 
 <br>
 
